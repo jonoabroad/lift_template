@@ -68,3 +68,8 @@ And uncommenting the following:
     DB.defineConnectionManager(DefaultConnectionIdentifier, vendor)
 
 Then finally run with jetty type "sbt update ~jetty-run" in the project directory, and then browse to localhost:8080
+
+
+
+
+
