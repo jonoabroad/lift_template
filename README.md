@@ -1,3 +1,11 @@
+
+Requires 
+
+SBT 0.12.0 
+
+Uses Lift 2.5 SNAPHOT.
+
+// This will need to be updated if the fork isn't merged back.
 <a href="https://grandcentral.cloudbees.com/?CB_clickstart=https://raw.github.com/CloudBees-community/lift_template/master/clickstart.json"><img src="https://s3.amazonaws.com/cloudbees-downloads/clickstart/clickstart-now.png"/></a>
 
 # Scala and Lift ClickStart.
